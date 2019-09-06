@@ -1,0 +1,2 @@
+This is release note for ProjectOne
+Git Remot Master repo has been created to start with Vs 1.0
